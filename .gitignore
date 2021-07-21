@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/HelloWorld/HelloWorld/bin
+/HelloWorld/HelloWorld/obj
+/HelloWorld/HelloWorld/wwwroot/lib
